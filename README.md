@@ -19,6 +19,7 @@ Topics:
 - Heroku, AWS, Google Cloud, Firebase
 - Apache, ngnix
 - LAMP, MEAN & MERN stacks
+- Data binding
 
 Projects:
 - Recipe Network
