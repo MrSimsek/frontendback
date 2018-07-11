@@ -15,4 +15,7 @@ After my request, Google sends me thier response and they show me the content in
 
 ![Google's response.](https://preview.ibb.co/dRLYMo/Fire_Shot_Capture_1_Google_https_www_google_com.png "Google webpage in browser window")
 
-It may sound weird but when I did that, I actually requested to see the **content stored in an another computer**. 
+## Request Background
+It may sound weird but when I did that, I actually requested to see the **content stored or "hosted" in an another computer**. I foolishly say; "I want to see what is on your computer". I am able to do that with a special protocol called HTTP, HyperText Transfer Protocol.
+
+### Hypertext Transfer Protocol
