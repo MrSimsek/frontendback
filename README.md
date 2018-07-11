@@ -15,7 +15,10 @@ Topics:
 - Functional Programming
 - Test Driven Development, TDD
 - Fundamentals of NodeJS
+- Wordpress
 - Heroku, AWS, Google Cloud, Firebase
+- Apache, ngnix
+- LAMP, MEAN & MERN stacks
 
 Projects:
 - Recipe Network
