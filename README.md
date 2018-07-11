@@ -7,6 +7,14 @@ Topics:
 - Fundamentals of Internet
 - HTTP / HTTPS
 - HTML / CSS / JavaScript
+- Servers and Clients
+- UI / UX
 - Frameworks
-- Design Patterns, Data Structures
+- Design Patterns
+- Data Structures
+- Functional Programming
 - Test Driven Development, TDD
+- Fundamentals of NodeJS
+
+Projects:
+- Recipe Network
