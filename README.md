@@ -20,6 +20,8 @@ This is an open source book about learning web development. It will dive into bo
 - Apache, ngnix
 - Github
 - Continuous integration (CI) and continuous delivery/deployment (CD) pipelines
+- SYNChronicity vs ASYNCchronicity
+- AJAX
 
 **Projects:**
 - Recipe Network
