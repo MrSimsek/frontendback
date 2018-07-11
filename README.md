@@ -18,8 +18,9 @@ This is an open source book about learning web development. It will dive into bo
 - Wordpress
 - Heroku, AWS, Google Cloud, Firebase
 - Apache, ngnix
-- LAMP, MEAN & MERN stacks
-- Data binding
+- Github
+- Continuous integration (CI) and continuous delivery/deployment (CD) pipelines
 
 **Projects:**
 - Recipe Network
+- Forum Application
