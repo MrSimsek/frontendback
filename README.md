@@ -6,10 +6,8 @@ This is an open source book about learning web development. It will dive into bo
 **Topics:**
 - Fundamentals of Internet
 - HTTP / HTTPS
-- HTML / CSS / JavaScript
 - Servers and Clients
 - UI / UX
-- Frameworks
 - Design Patterns
 - Data Structures
 - Functional Programming
@@ -18,7 +16,6 @@ This is an open source book about learning web development. It will dive into bo
 - Wordpress
 - Heroku, AWS, Google Cloud, Firebase
 - Apache, ngnix
-- Github
 - Continuous integration (CI) and continuous delivery/deployment (CD) pipelines
 - SYNChronicity vs ASYNCchronicity
 - AJAX
